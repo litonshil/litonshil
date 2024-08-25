@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 ## 🔭 **What I'm Working On**
 - **klikit**: An aggregator model-based food delivery solution that simplifies the management of multiple food services (like UberEats, Food-Panda, and GrabFood) from a single app. As the primary engineer managing the menu service, I ensure the seamless integration of various provider menus into a generic, unified format.
-- **Stripe Integration**: Enhancing the klikit platform with secure and efficient payment processing using Stripe.
 - **Cross-Team Collaboration**: Participating in cross-team discussions to finalize schema definitions for various services within our ecosystem.
 
 ## 💼 **Professional Experience**
